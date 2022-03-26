@@ -1,0 +1,16 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Simple Node tester site",
+  "main": "server.js",
+  "repository": "git@github.com:bighill/echo.git",
+  "author": "bighill",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
