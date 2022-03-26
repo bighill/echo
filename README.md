@@ -1,3 +1,3 @@
-# Webhook
+# Echo
 
-My webhook server
+Simple Node echo API server for testing.
