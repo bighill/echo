@@ -10,6 +10,6 @@ app.get("/", (req, res) => {
   return res.json({ message: "echo" });
 });
 
-app.listen(1122, () => {
-  console.log("Echo server listening on port 1122");
+app.listen(1222, () => {
+  console.log("Echo server listening on port 1222");
 });
