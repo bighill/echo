@@ -3,7 +3,7 @@ const app = express();
 const PORT = 8080;
 
 app.get("/:message", (req, res) => {
-  return res.json({ message: req.params.message + " !!!" });
+  return res.json({ message: req.params.message });
 });
 
 app.get("/", (req, res) => {
