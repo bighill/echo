@@ -1,6 +1,3 @@
 #!/bin/bash
 
 touch ./the-deploy-worked.txt
-
-# do a thing
-# again
