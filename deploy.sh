@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch the-deploy-worked.txt
+touch ./the-deploy-worked.txt
