@@ -18,6 +18,7 @@ docker container rm $CONTAINER_NAME
 # Start container
 docker run \
   --name $CONTAINER_NAME \
+  --restart unless-stopped \
   -d \
   -p 11000:8080 \
   -e "NODE_ENV=production" \
