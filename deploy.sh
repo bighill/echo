@@ -2,4 +2,4 @@
 
 touch ./the-deploy-worked.txt
 
-# do something
+# do a thing
