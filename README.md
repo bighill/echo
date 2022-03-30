@@ -1,3 +1,3 @@
 # Echo
 
-Simple Node echo API server for testing
+Simple Node echo API server for testing.
