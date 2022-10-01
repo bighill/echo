@@ -2,4 +2,4 @@
 
 Simple Node API server for testing
 
-Available at [https://api.echo.inputcloud.com/](api.echo.inputcloud.com)
+Available at [api.echo.inputcloud.com](https://api.echo.inputcloud.com)
