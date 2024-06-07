@@ -1,7 +1,7 @@
 {
   "name": "echo",
   "version": "1.0.0",
-  "description": "Simple Node tester site",
+  "description": "Simple Node echo server",
   "main": "server.js",
   "repository": "git@github.com:bighill/echo.git",
   "author": "bighill",
@@ -12,7 +12,7 @@
     "dev": "nodemon --inspect server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^3.0.1"
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
   }
 }
